@@ -11,6 +11,7 @@
     "@chakra-ui/core": "^0.8.0",
     "@emotion/core": "^10.0.35",
     "@emotion/styled": "^10.0.27",
+    "caniuse-lite": "^1.0.30001451",
     "emotion-theming": "^10.0.27",
     "next": "^10.0.3",
     "react": "^17.0.1",
@@ -33,5 +34,17 @@
     "eslint-plugin-standard": "^4.0.1",
     "prettier": "^2.8.3",
     "typescript": "^4.0.3"
-  }
+  },
+  "description": "<p align=\"center\">\r    <img src=\".github/assets/logo.png\" width=\"220\"/>\r </p>",
+  "main": "prettier.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevKhal/coinbase-web.git"
+  },
+  "author": "devkhal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevKhal/coinbase-web/issues"
+  },
+  "homepage": "https://github.com/DevKhal/coinbase-web#readme"
 }
